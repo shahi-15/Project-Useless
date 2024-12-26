@@ -1,0 +1,76 @@
+body {
+font-family: Arial, sans-serif;
+background-color:#edf6f9;
+color: #333;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+margin: 0;
+}
+header{
+    margin-bottom: 1cm;
+    object-fit: fill;
+    width: 100%;
+}
+.container{
+text-align: center;
+background: #83c5be;
+padding: 20px 30px;
+border-radius: 10px;
+box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+  
+h1{
+margin-bottom: 20px;
+}
+  
+.fact-display{
+margin: 20px 0;
+padding: 15px;
+font-size: 1.2rem;
+background:#006d77;
+border: 1px solid #006d77;
+border-radius: 5px;
+min-height: 50px;
+}
+  
+#fact-button{
+padding: 10px 20px;
+background-color: #006d77;
+color: black;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+font-size: 1rem;
+}
+  
+#fact-button:hover{
+background-color: #edf6f9;
+}
+
+.joke-display{
+margin: 20px 0;
+padding: 15px;
+font-size: 1.2rem;
+background:#006d77;
+border: 1px solid #006d77;
+border-radius: 5px;
+min-height: 50px;
+}
+
+#joke-button{
+padding: 10px 20px;
+background-color: #006d77;
+color: black;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+font-size: 1rem;
+}
+      
+#joke-button:hover{
+background-color: #edf6f9;
+}
+  
