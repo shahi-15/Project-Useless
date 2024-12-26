@@ -8,10 +8,12 @@ align-items: center;
 height: 100vh;
 margin: 0;
 }
-header{
+#banner{
     margin-bottom: 1cm;
     object-fit: fill;
     width: 100%;
+    border-radius: 2cm;
+    margin-top:10% ;
 }
 .container{
 text-align: center;
